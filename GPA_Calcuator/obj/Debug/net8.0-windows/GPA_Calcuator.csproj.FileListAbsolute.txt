@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\GPA_Calcuator\GPA_Calcuator\bin\Debug\net8.0-windows\GPA_Calcuator.exe
+C:\Users\User\source\repos\GPA_Calcuator\GPA_Calcuator\bin\Debug\net8.0-windows\GPA_Calcuator.deps.json
+C:\Users\User\source\repos\GPA_Calcuator\GPA_Calcuator\bin\Debug\net8.0-windows\GPA_Calcuator.runtimeconfig.json
+C:\Users\User\source\repos\GPA_Calcuator\GPA_Calcuator\bin\Debug\net8.0-windows\GPA_Calcuator.dll
+C:\Users\User\source\repos\GPA_Calcuator\GPA_Calcuator\bin\Debug\net8.0-windows\GPA_Calcuator.pdb
+C:\Users\User\source\repos\GPA_Calcuator\GPA_Calcuator\obj\Debug\net8.0-windows\GPA_Calcuator.Form1.resources
+C:\Users\User\source\repos\GPA_Calcuator\GPA_Calcuator\obj\Debug\net8.0-windows\GPA_Calcuator.csproj.GenerateResource.cache
+C:\Users\User\source\repos\GPA_Calcuator\GPA_Calcuator\obj\Debug\net8.0-windows\GPA_Calcuator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\GPA_Calcuator\GPA_Calcuator\obj\Debug\net8.0-windows\GPA_Calcuator.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\GPA_Calcuator\GPA_Calcuator\obj\Debug\net8.0-windows\GPA_Calcuator.AssemblyInfo.cs
+C:\Users\User\source\repos\GPA_Calcuator\GPA_Calcuator\obj\Debug\net8.0-windows\GPA_Calcuator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GPA_Calcuator\GPA_Calcuator\obj\Debug\net8.0-windows\GPA_Calcuator.dll
+C:\Users\User\source\repos\GPA_Calcuator\GPA_Calcuator\obj\Debug\net8.0-windows\refint\GPA_Calcuator.dll
+C:\Users\User\source\repos\GPA_Calcuator\GPA_Calcuator\obj\Debug\net8.0-windows\GPA_Calcuator.pdb
+C:\Users\User\source\repos\GPA_Calcuator\GPA_Calcuator\obj\Debug\net8.0-windows\GPA_Calcuator.genruntimeconfig.cache
+C:\Users\User\source\repos\GPA_Calcuator\GPA_Calcuator\obj\Debug\net8.0-windows\ref\GPA_Calcuator.dll
