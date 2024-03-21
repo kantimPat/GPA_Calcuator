@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GPA_Calcuator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8e76dfff81b3c4528a685120961241483628a52")]
 [assembly: System.Reflection.AssemblyProductAttribute("GPA_Calcuator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GPA_Calcuator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
